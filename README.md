@@ -13,7 +13,7 @@ To build a `RESTFUL` backend using `ORM` with the `sequelize` package from `npm`
 
 1. Clone the repository:
 ```shell
-git clone git@github.com:eliHC/trybe-blogs-api.git
+git clone git@github.com:eliHC/blogs-api.git
 ```
 2. Inside the project root folder, install the dependencies:
 ```shell
