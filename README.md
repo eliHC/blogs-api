@@ -1,6 +1,6 @@
-## Concept:
+# Concept:
 ---
-To build a `RESTFUL` backend using `ORM` with the `sequelize` package from `npm`, following the `MSC` architecture:
+To build a `REST` API using a `ORM` with the `sequelize` package from `npm`, following the `MSC` architecture:
 
  - Create and join tables using `models` from `sequelize`
  - Build endpoints to consume the created models
@@ -8,7 +8,9 @@ To build a `RESTFUL` backend using `ORM` with the `sequelize` package from `npm`
  - Logic validations made with [Joi](https://joi.dev/api/)
  - Authentication made with [JWT](https://jwt.io/)
 
-### How to start it:
+#### Still a work in progress with room for refactoring. As I learn, I plan to continue implementing and optimizing best practices and design patterns.
+
+## How to start it:
 ---
 
 1. Clone the repository:
@@ -24,4 +26,4 @@ npm install
 npm run debug
 ```
 ---
-### Project developed during the Full Stack Development Course at [Trybe](https://www.betrybe.com/)
+##### Project developed during the Full Stack Development Course at [Trybe](https://www.betrybe.com/)
